@@ -1,3 +1,5 @@
-from ImageWorker import *
+from Main import *
 
-work = ImageWorker()
+main = Main()
+main.fetch_media_and_download()
+
