@@ -13,8 +13,6 @@ class Login:
         self.username = username
         self.password = password
 
-
-
     URL_HOME = "https://www.instagram.com/"
     URL_LOGIN = "https://www.instagram.com/accounts/login/ajax/"
     URL_LOGOUT = "https://www.instagram.com/accounts/logout/"
