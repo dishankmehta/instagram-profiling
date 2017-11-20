@@ -34,7 +34,6 @@ class Login:
 
         get_token = self.session.get(self.URL_HOME)
         if get_token:
-            print(get_token.cookies['csrftoken'])
             self.session.headers.update({'X-CSRFToken': get_token.cookies['csrftoken']})
 
         login = self.session.post(self.URL_LOGIN, data=login_post, allow_redirects=True)
@@ -42,6 +41,7 @@ class Login:
             print('Login Error...!!')
             print("Status code: %d" % login.status_code)
         else:
+            print("successfully logged in as {}".format(login_post['username']))
             self.session.headers.update({'X-CSRFToken': login.cookies['csrftoken']})
 
         res = self.session.get(self.URL_HOME)
