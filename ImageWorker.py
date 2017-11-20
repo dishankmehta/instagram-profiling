@@ -8,7 +8,7 @@ import os
 
 DEFAULT_RX = re.compile(r'(https://.*?/.*?/).*(/.*\.jpg)')
 NEW_DEFAULT_RX = re.compile(r'(https://.*?/h-ak-igx/).*(/.*\.jpg)')
-DIRECTORY = 'C:/Users/Dishank/Documents/instagram'
+DIRECTORY = 'C:/Users/malay/Documents/instagram'
 
 
 class ImageWorker(threading.Thread):
@@ -28,7 +28,7 @@ class ImageWorker(threading.Thread):
         while not self._killed:
             #try:
                 media = self.medias.get()
-                print(media)
+                #print(media)
                 if media == None:
                     break
                 else:
@@ -38,12 +38,12 @@ class ImageWorker(threading.Thread):
 
     def download(self, media):
         source = media['display_src']
-        print(source)
+        #print(source)
         user_folder = os.path.join(DIRECTORY, self.target)
         if not os.path.exists(user_folder):
             os.mkdir(user_folder)
         parsed_source = urlparse(source)
-        print(parsed_source)
+        #print(parsed_source)
         filename = os.path.join(user_folder, str(os.path.basename(parsed_source.path)))
 
         #download the photo
