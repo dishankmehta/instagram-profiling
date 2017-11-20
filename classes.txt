@@ -1,0 +1,36 @@
+{'laptop, laptop computer ': ['0.89593'], '': [], 'bassoon ': ['0.02390'], 'cello, violoncello ': ['0.00647'], 'notebook, notebook computer ': ['0.00992'], 'desktop computer ': ['0.00923']}
+{'': [], 'sunglasses, dark glasses, shades ': ['0.49703'], 'stethoscope ': ['0.00675'], 'whistle ': ['0.00748'], 'sunglass ': ['0.37971'], 'wig ': ['0.00844']}
+{'': [], 'tub, vat ': ['0.65357'], 'maillot, tank suit ': ['0.01824'], 'bikini, two-piece ': ['0.11690'], 'sunscreen, sunblock, sun blocker ': ['0.00856'], 'swimming trunks, bathing trunks ': ['0.10324']}
+{'': [], 'torch ': ['0.02294'], 'maillot ': ['0.02630'], 'bikini, two-piece ': ['0.22455'], 'sarong ': ['0.19134'], 'swimming trunks, bathing trunks ': ['0.18871']}
+{'': [], 'scuba diver ': ['0.04800'], 'dugong, Dugong dugon ': ['0.01944'], 'snorkel ': ['0.10170'], 'television, television system ': ['0.02705'], 'book jacket, dust cover, dust jacket, dust wrapper ': ['0.04397']}
+{'': [], 'seat belt, seatbelt ': ['0.00291'], 'sunglasses, dark glasses, shades ': ['0.57750'], 'jean, blue jean, denim ': ['0.00054'], 'sunglass ': ['0.39352'], 'wig ': ['0.00052']}
+{'': [], 'corkscrew, bottle screw ': ['0.08544'], 'chain ': ['0.07826'], 'greenhouse, nursery, glasshouse ': ['0.03776'], 'folding chair ': ['0.23392'], 'seashore, coast, seacoast, sea-coast ': ['0.04914']}
+{'': [], 'seat belt, seatbelt ': ['0.30474'], 'hare ': ['0.02028'], 'vacuum, vacuum cleaner ': ['0.03914'], 'car mirror ': ['0.05811'], 'toaster ': ['0.02759']}
+{'': [], 'Brabancon griffon ': ['0.01901'], 'German shepherd, German shepherd dog, German police dog, alsatian ': ['0.02003'], 'Windsor tie ': ['0.10177'], 'malinois ': ['0.03676'], 'suit, suit of clothes ': ['0.26807']}
+{'': [], 'unicycle, monocycle ': ['0.07891'], 'torch ': ['0.01953'], 'swing ': ['0.19849'], "pajama, pyjama, pj's, jammies ": ['0.02370'], 'flagpole, flagstaff ': ['0.02581']}
+{'French horn, horn ': ['0.03370'], 'jean, blue jean, denim ': ['0.03107'], 'boa constrictor, Constrictor constrictor ': ['0.24813'], '': [], 'stole ': ['0.06705'], 'terrapin ': ['0.03979']}
+{'': [], 'suit, suit of clothes ': ['0.36314'], 'bow tie, bow-tie, bowtie ': ['0.05332'], 'Windsor tie ': ['0.01861'], 'stage ': ['0.07435'], 'maze, labyrinth ': ['0.02534']}
+{'': [], 'seat belt, seatbelt ': ['0.00138'], 'sunglasses, dark glasses, shades ': ['0.50890'], 'sunglass ': ['0.46932'], 'sunscreen, sunblock, sun blocker ': ['0.00145'], 'swimming trunks, bathing trunks ': ['0.00081']}
+{'': [], 'sunglasses, dark glasses, shades ': ['0.01701'], 'jersey, T-shirt, tee shirt ': ['0.60574'], 'sunglass ': ['0.06969'], 'sarong ': ['0.01638'], 'swimming trunks, bathing trunks ': ['0.01889']}
+{'': [], 'drilling platform, offshore rig ': ['0.02508'], 'military uniform ': ['0.03284'], 'sax, saxophone ': ['0.13207'], 'water tower ': ['0.07288'], 'trombone ': ['0.03879']}
+{'': [], 'theater curtain, theatre curtain ': ['0.06830'], 'groom, bridegroom ': ['0.06158'], 'thatch, thatched roof ': ['0.06742'], 'restaurant, eating house, eating place, eatery ': ['0.08118'], 'drum, membranophone, tympan ': ['0.22260']}
+{'': [], 'beer glass ': ['0.02676'], 'sunglasses, dark glasses, shades ': ['0.13435'], 'bow tie, bow-tie, bowtie ': ['0.28157'], 'sunglass ': ['0.03612'], 'shower cap ': ['0.09076']}
+{'': [], 'sunglasses, dark glasses, shades ': ['0.44234'], 'bow tie, bow-tie, bowtie ': ['0.01538'], 'sunglass ': ['0.40375'], 'wig ': ['0.01196'], 'mask ': ['0.01675']}
+{'': [], 'sunglasses, dark glasses, shades ': ['0.05145'], 'carousel, carrousel, merry-go-round, roundabout, whirligig ': ['0.02257'], 'swing ': ['0.79217'], 'sunglass ': ['0.01035'], "plunger, plumber's helper ": ['0.01235']}
+{'': [], 'sunglasses, dark glasses, shades ': ['0.31686'], 'military uniform ': ['0.00084'], 'bow tie, bow-tie, bowtie ': ['0.00224'], 'sunglass ': ['0.67521'], 'suspension bridge ': ['0.00080']}
+{'sleeping bag ': ['0.02703'], '': [], 'sunglasses, dark glasses, shades ': ['0.04496'], 'sunglass ': ['0.04264'], 'alp ': ['0.07092'], 'volcano ': ['0.52133']}
+{'': [], 'sunglasses, dark glasses, shades ': ['0.48552'], 'military uniform ': ['0.00045'], 'bow tie, bow-tie, bowtie ': ['0.00085'], 'stole ': ['0.00202'], 'sunglass ': ['0.50413']}
+{'': [], 'hatchet ': ['0.06517'], 'shovel ': ['0.14627'], 'racket, racquet ': ['0.07459'], 'swab, swob, mop ': ['0.04998'], 'volcano ': ['0.04962']}
+{'': [], 'cello, violoncello ': ['0.00647'], 'bassoon ': ['0.02390'], 'notebook, notebook computer ': ['0.00992'], 'desktop computer ': ['0.00923'], 'laptop, laptop computer ': ['0.89593']}
+{'': [], 'whistle ': ['0.00748'], 'sunglass ': ['0.37971'], 'stethoscope ': ['0.00675'], 'sunglasses, dark glasses, shades ': ['0.49703'], 'wig ': ['0.00844']}
+{'': [], 'sunscreen, sunblock, sun blocker ': ['0.00856'], 'swimming trunks, bathing trunks ': ['0.10324'], 'maillot, tank suit ': ['0.01824'], 'bikini, two-piece ': ['0.11690'], 'tub, vat ': ['0.65357']}
+{'': [], 'maillot ': ['0.02630'], 'bikini, two-piece ': ['0.22455'], 'swimming trunks, bathing trunks ': ['0.18871'], 'sarong ': ['0.19134'], 'torch ': ['0.02294']}
+{'': [], 'dugong, Dugong dugon ': ['0.01944'], 'scuba diver ': ['0.04800'], 'television, television system ': ['0.02705'], 'book jacket, dust cover, dust jacket, dust wrapper ': ['0.04397'], 'snorkel ': ['0.10170']}
+{'': [], 'sunglass ': ['0.39352'], 'seat belt, seatbelt ': ['0.00291'], 'jean, blue jean, denim ': ['0.00054'], 'sunglasses, dark glasses, shades ': ['0.57750'], 'wig ': ['0.00052']}
+{'': [], 'seashore, coast, seacoast, sea-coast ': ['0.04914'], 'greenhouse, nursery, glasshouse ': ['0.03776'], 'corkscrew, bottle screw ': ['0.08544'], 'chain ': ['0.07826'], 'folding chair ': ['0.23392']}
+{'': [], 'toaster ': ['0.02759'], 'seat belt, seatbelt ': ['0.30474'], 'hare ': ['0.02028'], 'car mirror ': ['0.05811'], 'vacuum, vacuum cleaner ': ['0.03914']}
+{'': [], 'suit, suit of clothes ': ['0.26807'], 'German shepherd, German shepherd dog, German police dog, alsatian ': ['0.02003'], 'malinois ': ['0.03676'], 'Brabancon griffon ': ['0.01901'], 'Windsor tie ': ['0.10177']}
+{'': [], 'swing ': ['0.19849'], 'unicycle, monocycle ': ['0.07891'], "pajama, pyjama, pj's, jammies ": ['0.02370'], 'flagpole, flagstaff ': ['0.02581'], 'torch ': ['0.01953']}
+{'': [], 'French horn, horn ': ['0.03370'], 'terrapin ': ['0.03979'], 'boa constrictor, Constrictor constrictor ': ['0.24813'], 'stole ': ['0.06705'], 'jean, blue jean, denim ': ['0.03107']}
+{'': [], 'maze, labyrinth ': ['0.02534'], 'suit, suit of clothes ': ['0.36314'], 'bow tie, bow-tie, bowtie ': ['0.05332'], 'stage ': ['0.07435'], 'Windsor tie ': ['0.01861']}
+{'': [], 'sunglass ': ['0.46932'], 'sunscreen, sunblock, sun blocker ': ['0.00145'], 'swimming trunks, bathing trunks ': ['0.00081'], 'seat belt, seatbelt ': ['0.00138'], 'sunglasses, dark glasses, shades ': ['0.50890']}

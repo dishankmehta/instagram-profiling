@@ -20,7 +20,7 @@ class Main:
     TEMPLATE = re.compile(r'{([a-zA-Z]*)}')
     CODE_URL = re.compile(r'p/([^/]*)')
 
-    login = Login("dishankmehta", "Unnamedthe@22")
+    login = Login("malay1995", "mmhh1814")
     login.login_user()
 
     print("Input the username you wish to scrap: ")
@@ -33,7 +33,7 @@ class Main:
         'base_url': "https://www.instagram.com/{}/"
     }
 
-    print(profile_parameters)
+    #print(profile_parameters)
 
     def fetch_media_and_download(self):
         self.initialize_workers()
